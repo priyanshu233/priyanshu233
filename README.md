@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Data Structure and Algorithms and android development**
+- 🔭 I’m currently working on **Data Science and Devops or cloud**
 
-- 💬 Ask me about **Algorithms,Data Structures,Competative Programming**
+- 💬 Ask me about **Algorithms,Data Structures,Data Science,Devops**
 
 - 📫 How to reach me **pritanshubansal12@gmail.com**
 
