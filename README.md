@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Priyanshu Bansal</h1>
-<h3 align="center">A passionate Data Science Enthusisant</h3>
+<h3 align="center">A passionate Problem Solver and  Data Science Enthusisant </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=priyanshu23&label=Profile%20views&color=0e75b6&style=flat" alt="priyanshu23" /> </p>
 
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Data Science**
+- 🔭 I’m currently working on **Data Science and data structure and algorithms**
 
 - 💬 Ask me about **Algorithms,Data Structures,Data Science**
 
