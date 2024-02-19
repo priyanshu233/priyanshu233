@@ -1,28 +1,53 @@
-<h1 align="center">Hi 👋, I'm Priyanshu Bansal</h1>
-<h3 align="center">Interested in Algorithms,web development,data science</h3>
-<img align="right" alt="Coding" width="400" src="https://www.chawtechsolutions.com/wp-content/uploads/2019/03/developer-dribbble.gif">
+          
+<!-- Profile View Count -->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=dhanrajchaurasia&label=Profile%20views&color=8e44ad&style=flat" alt="priyanshubansal" /> </p>
 
 
 
-- 🔭 I’m currently working on **Algorithms**
+<h1 align = "center"> Hi there <img src="https://media.tenor.com/SNL9_xhZl9oAAAAi/waving-hand-joypixels.gif" width="50">, I am Priyanshu Bansal </h1>
 
-- 🌱 I’m currently learning **Algorithms**
-
-- 💬 Ask me about **Algorithms,data science**
-
-- ⚡ Fun fact **I think I am a boring man**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h2 align = "center"> 📫 Reach me on 📫 </h2>
+<p align = "center"> 
+  <a  href = "https://www.linkedin.com/in/priyanshu-bansal-348a30207/" target = "_blank"> 
+    <img src="https://img.shields.io/badge/Linked%20In-0A66C2.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt = "-priyanshu-bansal" />
+  </a>
+  <a href = "mailto:pritanshubansal12@gmail.com" target = "_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"  alt = "pritanshubansa12" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://d3js.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/d3js/d3js-original.svg" alt="d3js" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
+### 🌠 Projects/Repositories
 
-<h3 align="left">Support:</h3>
-<p><a href="https://www.buymeacoffee.com/buymeacoffee"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="buymeacoffee" /></a></p><br><br>
+- [**Telecom-Churn-Prediction**](https://github.com/priyanshu233/Telecom-Churn-Prediction): Implemented using various machine learning algorithms such as random forest,support vector machine,logistic regression,xgboost,adaboost etc and made data visullisation charts to see the pattern. (Techs. Used: Python,Machine Learning,Python libraries->matplotlib,seaborn,pandas,tensorflow,scikit)  
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=priyanshu233&show_icons=true&locale=en&layout=compact" alt="priyanshu233" /></p>
+- [**Fetal-Health-Classification**](https://github.com/priyanshu233/Fetal-Health-Classification-mode): This project is used to classify the health of fetus as normal,pathological or suspect in order to prevent child and mortality rate. (Techs. Used: Python and its libraries,Machine Learning and its algorithms)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=priyanshu233&show_icons=true&locale=en" alt="priyanshu233" /></p>
+- [**Smart Image Table Extractor**](https://github.com/priyanshu233/Smart-Image-Table-Extractor): The Smart Image Table Extractor is a Python-based tool leveraging OpenCV for extracting tables from images automatically. This tool aims to simplify the process of converting tables embedded within images into structured data, making it suitable for various applications such as data analysis, document digitization, and more.
+
+- [**Freelance web portal**](https://github.com/priyanshu233/Freelancing-web-portal):The Freelancing Job Portal is a full-stack web application designed to connect freelancers with potential clients, offering a platform where users can find, post, and manage freelance job opportunities. Built using the MERN (MongoDB, Express.js, React.js, Node.js) stack, this application provides a seamless and efficient way for freelancers and clients to collaborate on various projects.(Tech Stack used:Mongo Db,React js,Nodejs,Express js).
+
+- [**Algo-mind**](https://github.com/priyanshu233/Fetal-Health-Classification-model): A web application to visuallize the algorihtms to understand the algorithms and data structures. (Techs. Used:Javascript,css3,d3.js,html) 
+
+- [**Link-Tracker**](https://github.com/priyanshu233/URL-TRACKER-Chrome-Extension): A chrome extension used to track and save url's of website which you have visited before it helps you to access websites links easily.This extension is perfect for individuals who want to keep a record of websites they frequently visit or for researchers who need to track their browsing history for analysis purposes. (Techs. Used: JS,Json,html,css) 
+  
+- [**Skier-Game**](https://github.com/priyanshu233/Skier-Game): A basic web game app made using python and its library called pygame. (Techs. Used: Python,Pygame(Python library).
+
+- [**flip-coin-game**](https://github.com/priyanshu233/flip-coin-game): A basic JS based app. (Techs. Used: JS).
+
+- [**Calculator**](https://github.com/priyanshu233/Calculator): A basic JS based web application. (Techs. Used: Javascript,html,css3). 
+
+<div>
+<p align="center">
+<img src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif" width="200",height="200"></a>
+</p>
+<!-- <p align="center"> -->
+<!-- <p align="right"> -->
+<p align="center">Thanks for Visiting!</p>
+<p align="center">Show some ❤️ by starring and forking <b>:star2:</b> the repositories.</p>
+</p>
+<!-- 
+<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"\>
+
+</script\> -->
+
 
