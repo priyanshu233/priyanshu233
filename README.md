@@ -38,16 +38,21 @@
 
 <div>
 <p align="center">
-<img src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif" width="200",height="200"></a>
+
 </p>
+
 <!-- <p align="center"> -->
 <!-- <p align="right"> -->
 <p align="center">Thanks for Visiting!</p>
 <p align="center">Show some ❤️ by starring and forking <b>:star2:</b> the repositories.</p>
 </p>
+
+[![An image of @priyanshu123's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/priyanshu123)](https://holopin.io/@priyanshu123)
+
 <!-- 
 <script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"\>
 
 </script\> -->
+
 
 
